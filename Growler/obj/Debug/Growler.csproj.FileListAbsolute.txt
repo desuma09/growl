@@ -110,3 +110,4 @@ C:\Projects\growl\Growler\bin\Growler.pdb
 C:\Projects\growl\Growler\obj\Debug\Growler.csproj.App.config
 C:\Projects\growl\Growler\obj\Debug\Growler.dll
 C:\Projects\growl\Growler\obj\Debug\Growler.pdb
+C:\Projects\growl\Growler\obj\Debug\Growler.csprojResolveAssemblyReference.cache
