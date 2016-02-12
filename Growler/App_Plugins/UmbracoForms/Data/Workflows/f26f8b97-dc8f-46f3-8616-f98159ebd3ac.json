@@ -1,0 +1,14 @@
+{
+  "id": "f26f8b97-dc8f-46f3-8616-f98159ebd3ac",
+  "name": "Send email to umang@intelworkshop.com when submitted",
+  "form": "2f66ca29-c8a8-4317-b7c3-1a36e8129107",
+  "active": true,
+  "workflowTypeId": "e96badd7-05be-4978-b8d9-b3d733de70a5",
+  "executesOn": "Submitted",
+  "settings": {
+    "Email": "umang@intelworkshop.com",
+    "Subject": "the form  was submitted",
+    "Message": "the form  was submitted, this is the list of values it contained, you can turn this email off under workflows in Umbraco Contour"
+  },
+  "sortOrder": 0
+}
